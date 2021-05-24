@@ -3,7 +3,7 @@ En este repositorio veremos el movimiento armónico simple.
 
 El código puede ser ejecutado desde un google colab:
 
-https://drive.google.com/file/d/1TgqXaD90kIZDCH8bMozD-eAxILJ0RsIp/view?usp=sharing
+https://colab.research.google.com/drive/1quakPEk6po596Kmaeh24SYESbVZ1p2dl?usp=sharing
 
 **Se tiene que abrir en Google colab**
 
